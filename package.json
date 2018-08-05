@@ -1,0 +1,19 @@
+{
+	"name": "ipMng",
+	"version": "0.0.1",
+	"description": "ip management api",
+	"main": "start.js",
+	"author": "Liron Blum",
+	"dependencies": {
+		"bluebird": "3.5.1",
+		"express": "4.15.4",
+		"mongodb": "2.2.36"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.3"
+	},
+	"scripts": {
+		"start": "node ./start.js",
+		"dev": "nodemon ./start.js"
+	}
+}
