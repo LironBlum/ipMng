@@ -4,9 +4,9 @@
  MongoDB must be up and running prior to execution 
  conf.json must be initialized with connection parameters
 
-- Installaions for mongo:
-static: https://docs.mongodb.com/manual/installation/
-docker: https://docs.docker.com/samples/library/mongo/
+# Installaions for mongo:
+- static: https://docs.mongodb.com/manual/installation/
+- docker: https://docs.docker.com/samples/library/mongo/
 
 ## How to run
 - npm i
